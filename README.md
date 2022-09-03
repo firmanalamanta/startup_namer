@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+# startup_namer
+crate the starter flutter app
+![Screenshot hello_world](images/tampilanawal.png)
 
-This project is a starting point for a Flutter application.
+menambahkan external package
+![Screenshot hello_world](images/eksternalpackage.png)
 
-A few resources to get you started if this is your first Flutter project:
+menambahkan statefulwidget
+![Screenshot hello_world](images/menambahwidget.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+menambahkan infinite scrolling listView
+![Screenshot hello_world](images/listview.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
